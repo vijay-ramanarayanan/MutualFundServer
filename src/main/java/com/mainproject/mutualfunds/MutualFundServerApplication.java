@@ -1,4 +1,4 @@
-package com.mainproject.mutualfunds.MutualFundServer;
+package com.mainproject.mutualfunds;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

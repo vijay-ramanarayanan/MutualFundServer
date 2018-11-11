@@ -1,4 +1,4 @@
-package com.mainproject.mutualfunds.MutualFundServer;
+package com.mainproject.mutualfunds;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
